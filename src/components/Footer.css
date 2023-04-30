@@ -1,0 +1,15 @@
+.foot0{
+    display: flex;
+    justify-content: space-between;
+}
+.foot2{
+    display: flex;
+}
+.drop1{
+    display: flex;
+    gap: 2em;
+}
+.foot{
+    background-color:darkgray;
+}
+ 
